@@ -1,0 +1,5 @@
+c:\users\sushant.khot\documents\visual studio 2012\Projects\sushresumewebsite\sushresumewebsite\bin\sushresumewebsite.dll
+c:\users\sushant.khot\documents\visual studio 2012\Projects\sushresumewebsite\sushresumewebsite\bin\sushresumewebsite.pdb
+c:\users\sushant.khot\documents\visual studio 2012\Projects\sushresumewebsite\sushresumewebsite\obj\Debug\sushresumewebsite.csprojResolveAssemblyReference.cache
+c:\users\sushant.khot\documents\visual studio 2012\Projects\sushresumewebsite\sushresumewebsite\obj\Debug\sushresumewebsite.dll
+c:\users\sushant.khot\documents\visual studio 2012\Projects\sushresumewebsite\sushresumewebsite\obj\Debug\sushresumewebsite.pdb
